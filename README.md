@@ -7,7 +7,7 @@ Application is a work day calender setup hourly. Project uses DayJs, JavaScript,
 
 ## ScreenShot
 
-![A user clicks on slots on the color-coded calendar and edits the events.](./Assets/CalenderSS.jpg)
+![A user clicks on slots on the color-coded calendar and edits the events.](./Assets/CalenderSS.jpeg)
 
 
 
